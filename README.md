@@ -21,7 +21,7 @@ Program ini ditulis menggunakan bahasa python dengan library TensorFlow. Yang ma
 - Data overview
 - Data modelling
 - Data trainning
-- UI dengan TensorFlow.js
+- Prediction
 
 ## Scopes
 - Menggunakan library TensorFlow
